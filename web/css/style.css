@@ -6,10 +6,8 @@
 html { height: 100%; font-size: 62.5% }
 
 body {
-/*background-image:url('../img/cloth_repeat.png');
-background-repeat:repeat;*/
 height: 100%;
-background-color: #F0F0F0;
+background-color: #FFFFFF;
 text-align: center;
 font: 1.2em Verdana, Arial, Helvetica, sans-serif;
 margin-left: auto ;
@@ -55,7 +53,7 @@ overflow: hidden;
 /* Wrapper */
 
 #wrapper {
-width: 930px;
+width: 850px;
 margin: 30px auto 0 auto;
 padding-bottom: 90px;
 padding-left: 50px;
@@ -247,6 +245,10 @@ background-color: #FFFFFF;
 padding: 0em 0.8em 1em 0;
 margin: 0 0em 0 0em;
 border-radius:3px;
+}
+
+.divider{
+padding-left: 175px;
 }
 
 .video-frame iframe {

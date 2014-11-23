@@ -6,13 +6,11 @@
 html { height: 100%; font-size: 62.5% }
 
 body {
-background-image:url('../img/test.png');
 background-repeat:no-repeat;
 background-attachment:fixed;
 background-position:right bottom;
 height: 100%;
 background-color: #F5F5F5;
-/*background-color: #FFFFFF;*/
 text-align: center;
 font: 1.2em Verdana, Arial, Helvetica, sans-serif;
 }
