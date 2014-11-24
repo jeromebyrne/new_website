@@ -180,9 +180,9 @@ padding: 10px;
 }
 
 ul.menu li {
-padding: 0px 8px;
+padding: 0px 5px;
 display: inline;
-font-size:150%;
+font-size:130%;
 text-shadow: #909090 2px 2px 6px;
 }
 
@@ -191,15 +191,22 @@ ul.menu li a, ul.menu li a:visited {
 color: #48474D;
 font-weight: normal;
 text-decoration: none;
-padding: 4px 7px;
+padding: 4px 5px;
+
+display: inline;
+font-size:130%;
+text-shadow: #909090 2px 2px 6px;
 }
 
 ul.menu li a:hover, ul.menu li a.active {
 color: #FFFFFF;
 background-color: #606060;
 border-radius: 3px;
-text-shadow: #000000 0px 0px 0px;
 box-shadow: 4px 4px 10px #707070;
+
+display: inline;
+font-size:130%;
+text-shadow: #909090 2px 2px 6px;
 
 /* Safari 4-5, Chrome 1-9 */
 background: -webkit-gradient(linear, 0% 0%, 0% 100%, to(#303030 ), from(#686868));
